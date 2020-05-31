@@ -1,0 +1,23 @@
+{
+  "name": "speed-typing-game",
+  "version": "1.0.0",
+  "description": "Speed typing game written in vanilla JS and Bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnicerio/speed-typing-game.git"
+  },
+  "author": "Darryl Nicerio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnicerio/speed-typing-game/issues"
+  },
+  "homepage": "https://dnicerio.github.io/speed-typing-game",
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
