@@ -1,7 +1,5 @@
 window.addEventListener('load', init);
 
-// Global Variables
-
 // Available Levels
 const levels = {
   easy: 5,
@@ -12,6 +10,7 @@ const levels = {
 // To change level
 const currentLevel = levels.medium
 
+// Global Variables
 let time = currentLevel;
 let score = 0;
 let isPlaying;
